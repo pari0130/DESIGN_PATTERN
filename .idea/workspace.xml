@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25469ec7-99a0-445d-b5c1-fb7f3ea1986c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01.SingletonPattern/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.SingletonPattern/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.SingletonPattern/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.SingletonPattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.SingletonPattern/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.SingletonPattern/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DESIGN_PATTERN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DESIGN_PATTERN.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01/SingletonPattern/case1/step1/Database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01/SingletonPattern/case1/step1/TestPattern1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k8dD793VIE5xxt3pCNgw4Gliqi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01.SingletonPattern" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.34367815" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="case1.step1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\03.PERSNAL\00.STUDY\DESIGN_PATTERN" />
+      <recent name="D:\03.PERSNAL\00.STUDY\DESIGN_PATTERN\src\02.FlyweightPattern" />
+      <recent name="D:\03.PERSNAL\00.STUDY\DESIGN_PATTERN\src\01.SingletonPattern" />
+      <recent name="D:\03.PERSNAL\00.STUDY\DESIGN_PATTERN\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestPattern1 (1)">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="DESIGN_PATTERN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPattern1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.case1.step1.TestPattern1" />
+      <module name="DESIGN_PATTERN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.case1.step1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="case1.step1.TestPattern1" />
+      <module name="DESIGN_PATTERN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="case1.step1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestPattern1 (1)" />
+        <item itemvalue="Application.TestPattern1" />
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25469ec7-99a0-445d-b5c1-fb7f3ea1986c" name="Default Changelist" comment="" />
+      <created>1605086030908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605086030908</updated>
+      <workItem from="1605086032076" duration="897000" />
+      <workItem from="1605143228766" duration="621000" />
+      <workItem from="1605759290910" duration="1149000" />
+      <workItem from="1605845577787" duration="1827000" />
+      <workItem from="1606093696818" duration="548000" />
+      <workItem from="1606784128535" duration="1062000" />
+    </task>
+    <task id="LOCAL-00001" summary="study 2020-11-19 01">
+      <created>1605760417316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605760417316</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="study 2020-11-19 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="study 2020-11-19 01" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2650" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1605760114546">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state x="2650" y="256" key="#com.intellij.ide.util.MemberChooser/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760114546" />
+    <state x="2603" y="400" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605759634395">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state x="2603" y="400" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605759634395" />
+    <state x="2433" y="61" key="CommitChangelistDialog2" timestamp="1605760416185">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state x="2433" y="61" key="CommitChangelistDialog2/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760416185" />
+    <state x="2625" y="295" key="FileChooserDialogImpl" timestamp="1606785067378">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state x="2625" y="295" key="FileChooserDialogImpl/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1606785067378" />
+    <state x="2452" y="368" width="534" height="271" key="Github.ShareDialog" timestamp="1605086207626">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state x="2452" y="368" width="534" height="271" key="Github.ShareDialog/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605086207626" />
+    <state x="2582" y="196" key="Github.UntrackedFilesDialog" timestamp="1605086221637">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state x="2582" y="196" key="Github.UntrackedFilesDialog/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605086221637" />
+    <state width="1807" height="228" key="GridCell.Tab.0.bottom" timestamp="1605866515558">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="355" key="GridCell.Tab.0.bottom/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760253045" />
+    <state width="1807" height="228" key="GridCell.Tab.0.bottom/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605866515558" />
+    <state width="1807" height="228" key="GridCell.Tab.0.center" timestamp="1605866515557">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="355" key="GridCell.Tab.0.center/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760253044" />
+    <state width="1807" height="228" key="GridCell.Tab.0.center/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605866515557" />
+    <state width="1807" height="228" key="GridCell.Tab.0.left" timestamp="1605866515557">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="355" key="GridCell.Tab.0.left/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760253044" />
+    <state width="1807" height="228" key="GridCell.Tab.0.left/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605866515557" />
+    <state width="1807" height="228" key="GridCell.Tab.0.right" timestamp="1605866515557">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="355" key="GridCell.Tab.0.right/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760253045" />
+    <state width="1807" height="228" key="GridCell.Tab.0.right/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605866515557" />
+    <state width="1807" height="295" key="GridCell.Tab.1.bottom" timestamp="1605760440452">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="295" key="GridCell.Tab.1.bottom/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760440452" />
+    <state width="1807" height="295" key="GridCell.Tab.1.center" timestamp="1605760440452">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="295" key="GridCell.Tab.1.center/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760440452" />
+    <state width="1807" height="295" key="GridCell.Tab.1.left" timestamp="1605760440452">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="295" key="GridCell.Tab.1.left/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760440452" />
+    <state width="1807" height="295" key="GridCell.Tab.1.right" timestamp="1605760440452">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="295" key="GridCell.Tab.1.right/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760440452" />
+    <state x="2576" y="199" key="RollbackChangesDialog" timestamp="1605760404694">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state x="2576" y="199" key="RollbackChangesDialog/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760404694" />
+    <state x="2346" y="184" key="SettingsEditor" timestamp="1606784601582">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state x="2346" y="184" key="SettingsEditor/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760011420" />
+    <state x="2346" y="184" key="SettingsEditor/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1606784601582" />
+    <state x="2437" y="269" key="Vcs.Push.Dialog.v2" timestamp="1605760420061">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state x="2437" y="269" key="Vcs.Push.Dialog.v2/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760420061" />
+    <state x="2554" y="227" width="582" height="626" key="find.popup" timestamp="1606785039131">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state x="2554" y="227" width="582" height="626" key="find.popup/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1606785039131" />
+    <state x="2508" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1606784513484">
+      <screen x="1920" y="0" width="1850" height="1080" />
+    </state>
+    <state x="2508" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1606784513484" />
+  </component>
+</project>
