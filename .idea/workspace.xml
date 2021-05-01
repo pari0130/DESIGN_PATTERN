@@ -10,26 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25469ec7-99a0-445d-b5c1-fb7f3ea1986c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01.SingletonPattern/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.SingletonPattern/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.SingletonPattern/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.SingletonPattern/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.SingletonPattern/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.SingletonPattern/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESIGN_PATTERN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DESIGN_PATTERN.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01/SingletonPattern/case1/step1/Database.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01/SingletonPattern/case1/step1/TestPattern1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" />
-    </list>
+    <list default="true" id="25469ec7-99a0-445d-b5c1-fb7f3ea1986c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/01.SingletonPattern" />
@@ -83,6 +65,7 @@
     <property name="project.structure.side.proportion" value="0.34367815" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -138,7 +121,10 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="25469ec7-99a0-445d-b5c1-fb7f3ea1986c" name="Default Changelist" comment="" />
@@ -152,6 +138,7 @@
       <workItem from="1605845577787" duration="1827000" />
       <workItem from="1606093696818" duration="548000" />
       <workItem from="1606784128535" duration="1062000" />
+      <workItem from="1619868725941" duration="109000" />
     </task>
     <task id="LOCAL-00001" summary="study 2020-11-19 01">
       <created>1605760417316</created>
@@ -164,105 +151,33 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="study 2020-11-19 01" />
     <option name="LAST_COMMIT_MESSAGE" value="study 2020-11-19 01" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2650" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1605760114546">
-      <screen x="1920" y="0" width="1850" height="1080" />
+    <state x="764" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1619868765139">
+      <screen x="0" y="0" width="1846" height="1080" />
     </state>
-    <state x="2650" y="256" key="#com.intellij.ide.util.MemberChooser/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760114546" />
-    <state x="2603" y="400" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605759634395">
-      <screen x="1920" y="0" width="1850" height="1080" />
+    <state x="764" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.0.1846.1080/0.0.1846.1080@0.0.1846.1080" timestamp="1619868765139" />
+    <state x="703" y="295" key="FileChooserDialogImpl" timestamp="1619868835031">
+      <screen x="0" y="0" width="1846" height="1080" />
     </state>
-    <state x="2603" y="400" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605759634395" />
-    <state x="2433" y="61" key="CommitChangelistDialog2" timestamp="1605760416185">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state x="2433" y="61" key="CommitChangelistDialog2/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760416185" />
-    <state x="2625" y="295" key="FileChooserDialogImpl" timestamp="1606785067378">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state x="2625" y="295" key="FileChooserDialogImpl/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1606785067378" />
-    <state x="2452" y="368" width="534" height="271" key="Github.ShareDialog" timestamp="1605086207626">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state x="2452" y="368" width="534" height="271" key="Github.ShareDialog/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605086207626" />
-    <state x="2582" y="196" key="Github.UntrackedFilesDialog" timestamp="1605086221637">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state x="2582" y="196" key="Github.UntrackedFilesDialog/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605086221637" />
-    <state width="1807" height="228" key="GridCell.Tab.0.bottom" timestamp="1605866515558">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state width="1807" height="355" key="GridCell.Tab.0.bottom/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760253045" />
-    <state width="1807" height="228" key="GridCell.Tab.0.bottom/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605866515558" />
-    <state width="1807" height="228" key="GridCell.Tab.0.center" timestamp="1605866515557">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state width="1807" height="355" key="GridCell.Tab.0.center/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760253044" />
-    <state width="1807" height="228" key="GridCell.Tab.0.center/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605866515557" />
-    <state width="1807" height="228" key="GridCell.Tab.0.left" timestamp="1605866515557">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state width="1807" height="355" key="GridCell.Tab.0.left/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760253044" />
-    <state width="1807" height="228" key="GridCell.Tab.0.left/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605866515557" />
-    <state width="1807" height="228" key="GridCell.Tab.0.right" timestamp="1605866515557">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state width="1807" height="355" key="GridCell.Tab.0.right/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760253045" />
-    <state width="1807" height="228" key="GridCell.Tab.0.right/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605866515557" />
-    <state width="1807" height="295" key="GridCell.Tab.1.bottom" timestamp="1605760440452">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state width="1807" height="295" key="GridCell.Tab.1.bottom/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760440452" />
-    <state width="1807" height="295" key="GridCell.Tab.1.center" timestamp="1605760440452">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state width="1807" height="295" key="GridCell.Tab.1.center/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760440452" />
-    <state width="1807" height="295" key="GridCell.Tab.1.left" timestamp="1605760440452">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state width="1807" height="295" key="GridCell.Tab.1.left/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760440452" />
-    <state width="1807" height="295" key="GridCell.Tab.1.right" timestamp="1605760440452">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state width="1807" height="295" key="GridCell.Tab.1.right/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760440452" />
-    <state x="2576" y="199" key="RollbackChangesDialog" timestamp="1605760404694">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state x="2576" y="199" key="RollbackChangesDialog/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760404694" />
-    <state x="2346" y="184" key="SettingsEditor" timestamp="1606784601582">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state x="2346" y="184" key="SettingsEditor/0.0.1841.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760011420" />
-    <state x="2346" y="184" key="SettingsEditor/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1606784601582" />
-    <state x="2437" y="269" key="Vcs.Push.Dialog.v2" timestamp="1605760420061">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state x="2437" y="269" key="Vcs.Push.Dialog.v2/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1605760420061" />
-    <state x="2554" y="227" width="582" height="626" key="find.popup" timestamp="1606785039131">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state x="2554" y="227" width="582" height="626" key="find.popup/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1606785039131" />
-    <state x="2508" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1606784513484">
-      <screen x="1920" y="0" width="1850" height="1080" />
-    </state>
-    <state x="2508" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1848.1080/1920.0.1850.1080@1920.0.1850.1080" timestamp="1606784513484" />
+    <state x="703" y="295" key="FileChooserDialogImpl/1920.0.1846.1080/0.0.1846.1080@0.0.1846.1080" timestamp="1619868835031" />
   </component>
 </project>
